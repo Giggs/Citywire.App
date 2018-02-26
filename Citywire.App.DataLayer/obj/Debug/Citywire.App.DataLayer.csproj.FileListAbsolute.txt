@@ -1,0 +1,7 @@
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\bin\Debug\Citywire.App.DataLayer.dll
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\bin\Debug\Citywire.App.DataLayer.pdb
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\bin\Debug\Citywire.App.Model.dll
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\bin\Debug\Citywire.App.Model.pdb
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\obj\Debug\Citywire.App.DataLayer.csprojResolveAssemblyReference.cache
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\obj\Debug\Citywire.App.DataLayer.dll
+D:\HR\O\Citywire\Citywire.App\Citywire.App.DataLayer\obj\Debug\Citywire.App.DataLayer.pdb

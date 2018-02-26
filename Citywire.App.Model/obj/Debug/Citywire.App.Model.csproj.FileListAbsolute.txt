@@ -1,0 +1,4 @@
+D:\HR\O\Citywire\Citywire.App\Citywire.App.Model\bin\Debug\Citywire.App.Model.dll
+D:\HR\O\Citywire\Citywire.App\Citywire.App.Model\bin\Debug\Citywire.App.Model.pdb
+D:\HR\O\Citywire\Citywire.App\Citywire.App.Model\obj\Debug\Citywire.App.Model.dll
+D:\HR\O\Citywire\Citywire.App\Citywire.App.Model\obj\Debug\Citywire.App.Model.pdb
